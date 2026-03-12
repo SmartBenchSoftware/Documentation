@@ -4,6 +4,9 @@ Welcome to the SmartBench documentation site.
 
 This site hosts public technical documentation for SmartBench applications and tools.
 
+Smartbench Software is the industry leader in Onshape automation.
+To learn more about our products and services - visit [www.smartbenchsoftware.com](https://www.smartbenchsoftware.com)
+
 ## Products
 
 ### [Renaissance](renaissance/index.md)
