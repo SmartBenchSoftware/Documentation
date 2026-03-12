@@ -1,4 +1,5 @@
 # Renaissance
+![Banner Image](banner.png)
 
 Renaissance is a collection of automation tools for Onshape.
 Save time and reduce errors with automation made easy.

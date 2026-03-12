@@ -50,3 +50,7 @@ nav:
           - Standard Content Metadata: renaissance/all/standard-content-metadata.md
   - fs.place:
       - Overview: fs-place/index.md
+  - Kestrel:
+      - Overview: kestrel/index.md
+  - SmartLink:
+      - Overview: smart-link/index.md
