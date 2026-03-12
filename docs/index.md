@@ -6,10 +6,10 @@ This site hosts public technical documentation for SmartBench applications and t
 
 ## Products
 
-### Renaissance
+### [Renaissance](renaissance/index.md)
 Renaissance is a collection of automation tools for Onshape. It includes applets for assembly workflows, part workflows, drawing workflows, and general utilities.
 
-### fs.place
+### [fs.place](fs-place/index.md)
 Documentation for fs.place is coming soon.
 
 ## Getting started
