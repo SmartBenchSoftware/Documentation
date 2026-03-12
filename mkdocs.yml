@@ -1,0 +1,52 @@
+site_name: SmartBench Documentation
+
+theme:
+  name: material
+  logo: favicon.ico
+  favicon: favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Renaissance:
+      - Overview: renaissance/index.md
+      - Assembly:
+          - Assembly Export: renaissance/assembly/assembly-export.md
+          - Assembly Links: renaissance/assembly/assembly-links.md
+          - Component Share: renaissance/assembly/component-share.md
+          - Assembly Configured Properties: renaissance/assembly/configured-properties.md
+      - Part:
+          - Find and Replace: renaissance/part/find-and-replace.md
+          - Remove Sketch Constraints: renaissance/part/remove-sketch-constraints.md
+          - Image Cube: renaissance/part/image-cube.md
+          - Part Configured Properties: renaissance/part/configured-properties.md
+          - Multiface DXF: renaissance/part/multiface-dxf.md
+          - Lock Configuration: renaissance/part/lock-configuration.md
+      - Drawing:
+          - Configured Drawings: renaissance/drawing/configured-drawings.md
+      - All:
+          - Configuration Clone: renaissance/all/configuration-clone.md
+          - Release Export: renaissance/all/release-export.md
+          - Release Package Automation: renaissance/all/release-package-automation.md
+          - Publication Updater: renaissance/all/publication-updater.md
+          - Link Tab: renaissance/all/link-tab.md
+          - Standard Content Metadata: renaissance/all/standard-content-metadata.md
+  - fs.place:
+      - Overview: fs-place/index.md

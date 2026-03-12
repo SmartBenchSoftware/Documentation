@@ -1,0 +1,23 @@
+/* Keep footer at the bottom on short pages */
+html,
+body {
+  height: 100%;
+}
+
+.md-container {
+  min-height: calc(100vh - var(--md-header-height));
+}
+
+.md-main {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - var(--md-header-height));
+}
+
+.md-main__inner {
+  flex: 1;
+}
+
+.md-footer {
+  margin-top: auto;
+}
