@@ -1,5 +1,7 @@
 # Component Share
 
+![Component Share](component-share.png)
+
 When designing an Onshape assembly with one part per document, sharing an assembly and all of its component documents can be difficult.
 Sharing an assembly does not share all component documents, requiring users to either place all parts into a folder to share or share each individual part.
 The Component Share tool fixes this by allowing you to share all component documents for a given assembly.

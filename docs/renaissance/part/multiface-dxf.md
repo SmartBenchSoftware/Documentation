@@ -1,5 +1,7 @@
 # Multiface DXF
 
+![Multiface DXF](multiface-dxf.png)
+
 This app allows you to select multiple faces in a Part Studio and export them as a single DXF.
 This is useful in conjunction with the Auto Layout FeatureScript to export nested shapes.
 

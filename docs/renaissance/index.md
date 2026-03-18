@@ -18,7 +18,6 @@ Assembly Mirror has been removed. Please use the native Onshape functionality.
 ## Part
 
 - [Find and Replace](part/find-and-replace.md)
-- [Remove Sketch Constraints](part/remove-sketch-constraints.md)
 - [Image Cube](part/image-cube.md)
 - [Configured Properties](part/configured-properties.md)
 - [Multiface DXF](part/multiface-dxf.md)
@@ -30,7 +29,6 @@ Assembly Mirror has been removed. Please use the native Onshape functionality.
 
 ## All Contexts
 
-- [Configuration Clone](all/configuration-clone.md)
 - [Release Export](all/release-export.md)
 - [Release Package Automation](all/release-package-automation.md)
 - [Publication Updater](all/publication-updater.md)

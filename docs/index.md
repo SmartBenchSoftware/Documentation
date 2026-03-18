@@ -15,6 +15,8 @@ Renaissance is a collection of automation tools for Onshape. It includes applets
 ### [fs.place](fs-place/index.md)
 Documentation for fs.place is coming soon.
 
-## Getting started
+### [Kestrel](kestrel/index.md)
+Documentation for Kestrel is coming soon.
 
-Choose a product from the navigation to view its documentation.
+### [SmartLink](smart-link/index.md)
+Documentation for SmartLink is coming soon.

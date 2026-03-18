@@ -1,5 +1,7 @@
 # Find and Replace
 
+![Find and Replace](find-and-replace.png)
+
 Find and Replace allows easy renaming of various elements in an Onshape document.
 Start by selecting a scope: **current tab** or **all tabs**.
 When **all tabs** is selected, only Part Studio contents will be modified, but all tab names will be updated.

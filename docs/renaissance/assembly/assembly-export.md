@@ -1,5 +1,7 @@
 # Assembly Export
 
+![Assembly Export](assembly-export.png)
+
 Exporting all parts, drawings, flat patterns, or sub-assemblies from a given assembly can be a difficult and time-consuming process that is prone to errors.
 With the Renaissance Assembly Export tool, this process is simplified into only a few clicks.
 

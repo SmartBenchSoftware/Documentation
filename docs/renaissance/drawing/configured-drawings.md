@@ -1,5 +1,7 @@
 # Configured Drawings
 
+![Configured Drawings](configured-drawings.png)
+
 The Configured Drawings tool allows generating configured variations of the current drawing.
 
 Start by creating a drawing containing a view of a single configured part.

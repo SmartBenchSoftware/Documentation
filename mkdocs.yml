@@ -2,7 +2,7 @@ site_name: SmartBench Documentation
 
 theme:
   name: material
-  logo: favicon.ico
+  logo: sb-white.png
   favicon: favicon.ico
   features:
     - navigation.tabs
@@ -34,15 +34,16 @@ nav:
           - Assembly Configured Properties: renaissance/assembly/configured-properties.md
       - Part:
           - Find and Replace: renaissance/part/find-and-replace.md
-          - Remove Sketch Constraints: renaissance/part/remove-sketch-constraints.md
           - Image Cube: renaissance/part/image-cube.md
           - Part Configured Properties: renaissance/part/configured-properties.md
           - Multiface DXF: renaissance/part/multiface-dxf.md
           - Lock Configuration: renaissance/part/lock-configuration.md
+          - Duplicate Feature: renaissance/part/duplicate-feature.md
+
       - Drawing:
           - Configured Drawings: renaissance/drawing/configured-drawings.md
+          - Magic Drawings: renaissance/drawing/magic-drawings.md
       - All:
-          - Configuration Clone: renaissance/all/configuration-clone.md
           - Release Export: renaissance/all/release-export.md
           - Release Package Automation: renaissance/all/release-package-automation.md
           - Publication Updater: renaissance/all/publication-updater.md

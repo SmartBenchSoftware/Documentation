@@ -1,5 +1,7 @@
 # Publication Updater
 
+![Publication Updater](publication-updater.png)
+
 This tool allows quickly updating items in a publication to either the latest version or latest revision (release).
 
 Launch the tool from any normal document context (Part Studio, Assembly, or Drawing).

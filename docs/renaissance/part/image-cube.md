@@ -1,5 +1,7 @@
 # Image Cube
 
+![Image Cube](image-cube.png)
+
 This application generates images of the six orthogonal directions of the current Part Studio.
 Selecting the option to use the configuration table allows generating images for many configurations at once.
 If this option is not selected, the current studio configuration is used.

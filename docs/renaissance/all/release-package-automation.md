@@ -1,5 +1,7 @@
 # Release Package Automation
 
+![Release Package Automation](release-package-automation.png)
+
 This tool is similar to Release Export, except all items from a release are exported automatically when a release is approved.
 
 Configure export settings and enable the webhook to allow Renaissance to generate release exports.

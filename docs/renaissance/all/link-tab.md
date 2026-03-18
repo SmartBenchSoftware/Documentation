@@ -1,5 +1,7 @@
 # Link Tab
 
+![Link Tab](link-tab.png)
+
 This tool lets you embed links to documents associated with tabs in Onshape.
 Insert an embeddable link and click **Update** to view your page inside Renaissance.
 The link is associated with a specific tab ID, so it is shared across Renaissance users who have access to the Onshape document.

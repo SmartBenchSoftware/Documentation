@@ -1,5 +1,7 @@
 # Configured Properties
 
+![Part Configured Properties](configured-properties.png)
+
 This application generates rows in the configured properties table.
 Start by selecting all configuration options to include in generation.
 Each possible combination of options is included in the resulting table.

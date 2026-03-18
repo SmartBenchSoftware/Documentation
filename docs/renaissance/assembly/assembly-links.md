@@ -1,5 +1,7 @@
 # Assembly Links
 
+![Assembly Links](assembly-links.png)
+
 Assembly Links generates a CSV of all items in the current assembly, including links to each one.
 Links are formatted to include specific component configurations.
 

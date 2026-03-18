@@ -1,5 +1,7 @@
 # Release Export
 
+![Release Export](release-export.png)
+
 The Release Export tool allows easy export of parts, assemblies, and drawings across multiple releases.
 
 Start by selecting at least one item from any revision.

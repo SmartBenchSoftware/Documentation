@@ -1,5 +1,7 @@
 # Standard Content Metadata
 
+![Standard Content Metadata](standard-content-metadata.png)
+
 This tool is used for bulk updates of standard content part numbers and descriptions.
 
 First, select the standard content component to edit.
