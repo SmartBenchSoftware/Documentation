@@ -28,11 +28,13 @@ nav:
   - Renaissance:
       - Overview: renaissance/index.md
       - Assembly:
+          - Overview: renaissance/assembly/index.md
           - Assembly Export: renaissance/assembly/assembly-export.md
           - Assembly Links: renaissance/assembly/assembly-links.md
           - Component Share: renaissance/assembly/component-share.md
           - Assembly Configured Properties: renaissance/assembly/configured-properties.md
       - Part:
+          - Overview: renaissance/part/index.md
           - Find and Replace: renaissance/part/find-and-replace.md
           - Image Cube: renaissance/part/image-cube.md
           - Part Configured Properties: renaissance/part/configured-properties.md
@@ -41,9 +43,11 @@ nav:
           - Duplicate Feature: renaissance/part/duplicate-feature.md
 
       - Drawing:
+          - Overview: renaissance/drawing/index.md
           - Configured Drawings: renaissance/drawing/configured-drawings.md
           - Magic Drawings: renaissance/drawing/magic-drawings.md
       - All:
+          - Overview: renaissance/all/index.md
           - Release Export: renaissance/all/release-export.md
           - Release Package Automation: renaissance/all/release-package-automation.md
           - Publication Updater: renaissance/all/publication-updater.md
