@@ -6,6 +6,8 @@ Save time and reduce errors with automation made easy.
 
 [Try for free for 30 days.](https://appstore.onshape.com/apps/Utilities/NDYJQNNF4DWNBG4O6QLFTN4UIPRDQ2B7ABZSFXQ=/description)
 
+- [FAQ](faq.md)
+
 ## Assembly
 
 - [Assembly Export](assembly/assembly-export.md)

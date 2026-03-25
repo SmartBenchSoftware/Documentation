@@ -27,6 +27,7 @@ nav:
   - Home: index.md
   - Renaissance:
       - Overview: renaissance/index.md
+      - FAQ: renaissance/faq.md
       - Assembly:
           - Overview: renaissance/assembly/index.md
           - Assembly Export: renaissance/assembly/assembly-export.md
