@@ -1,8 +1,8 @@
 # Settings
+The setup of Kestrel is important for it to function properly. It is strongly recommended to read through this entire guide before using Kestrel.
 
 
-
-## Identifiers
+## Identifiers (File uniqueness)
 For Kestrel to maintain it's database of migrated files and prevent duplicates, every file is required to have an identifier.
 The uniqueness of a file is based on the combination of identifier field, configuration, and file type.
 The uniqueness property may be a part number, part number + revision, or filename. If no identifier is provided, the full file path will be used.
@@ -10,8 +10,6 @@ The uniqueness property may be a part number, part number + revision, or filenam
 When a file is migrated to Onshape, the file is checked for the uniqueness property, if a file with that uniquness already exists in the database, it will be skipped.
 During the assembly creation process, the uniqueness properties of each component are used to build the assembly from already migrated parts.
 If there is overlap in this property, the first file will be migrated, even if the two files are different.
-
-
 
 ## Property Mappings
 
@@ -63,17 +61,41 @@ It is not recommended to use File Path for the file uniqueness as it will not pr
 Version Property is used to create the initial version in Onshape. Currently Kestrel does not support a "live updating" workflow where versions will be updated in Onshape after creation.
 
 ## Ignore Files
-Use property list and values to ignore files
+When selecting folder of files to upload to Onshape, it may be required to ignore or skip certain types of files.
+This is done during the upload to Onshape and may not be done during metadata extraction depending on your method of extraction.
+
+The ignore files mapping look at specific values in specifical CAD property fields.
+If the match condition is met, the file is skipped during upload.
 
 ## Misc Options
-- Create assembly groups
-- Ignore missing components in Assemblies
-- Ignore toolbox components
-- Unsuppressed all assembly components
-- Create local folders in Onshape (set root directory)
-- default onshape folder
-- company override
-- Mapped material density units
+Kestrel provides some additional settings that may either apply to the runfile generation or Onshape upload process
+
+#### Create assembly groups
+This option will group an entire assembly during creation process. Can be helpful as no mates are migrated.
+  
+#### Ignore missing components in Assemblies
+If Kestrel is missing components in Assemblies, it will not be able to create them fully and report an error message.
+This option suppresses that issue and warning and allows creation of assemblies with missing components.
+
+#### Ignore toolbox components
+Option set in the runfile for metadata processing.
+
+#### Unsuppressed all assembly components
+Option set in the runfile for metadata processing.
+
+#### Create local folders in Onshape (set root directory)
+Kestrel can replicate the folder structure from your local computer inside of Onshape.
+When selected and a root directory is selected, the file structure is replicated inside the default Onshape folder.
+Onshape documents are created in the correct folder when possible.
+
+#### default onshape folder
+Default the Onshape upload destination. The root directory in Onshape to match the local folder root if the create local folders option is selected.
+
+#### company override
+Only used when a user is having an issue with Onshape authenticate. This will force the login screen in Onshape for a specific company.
+
+#### Mapped material density units
+Mapped material units set in Onshape
 
 # Non-CAD files
 extnesions, matching files
