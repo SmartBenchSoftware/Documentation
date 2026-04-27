@@ -62,6 +62,24 @@ It is not recommended to use File Path for the file uniqueness as it will not pr
 
 Version Property is used to create the initial version in Onshape. Currently Kestrel does not support a "live updating" workflow where versions will be updated in Onshape after creation.
 
-## Associated Files
+## Ignore Files
+Use property list and values to ignore files
+
+## Misc Options
+- Create assembly groups
+- Ignore missing components in Assemblies
+- Ignore toolbox components
+- Unsuppressed all assembly components
+- Create local folders in Onshape (set root directory)
+- default onshape folder
+- company override
+- Mapped material density units
+
+# Non-CAD files
+extnesions, matching files
+export drawings as PDF or DXF
+upload drawings to new documetns vs upload drawings to associated document (by filename)
+
+
 
 
