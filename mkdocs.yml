@@ -58,5 +58,9 @@ nav:
       - Overview: fs-place/index.md
   - Kestrel:
       - Overview: kestrel/index.md
+      - Kestrel Portal: kestrel/KestrelPortal.md
+      - Settings: kestrel/Settings.md
+      - Runfile: kestrel/Runfile.md
+      - Metadata Files: kestrel/MetadataFiles.md
   - SmartLink:
       - Overview: smart-link/index.md
