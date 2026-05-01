@@ -29,12 +29,12 @@ Open the settings page and configure your options and parameters.
 Be sure to configure a Unqiueness value for the database to use to prevent file duplicate.
 Set all of your field mappings for part and assembly metadata.
 
-[Learn more about the settings](kestrel/Settings.md)
+[Learn more about the settings](Settings.md)
 
 ### 4. Use Kestrel to Generate the Runfile
 
 Kestrel uses a plain text file to manage file metadata extraction and uploads.
-The format of this file can be found [Here](kestrel/Runfile.md)
+The format of this file can be found [Here](Runfile.md)
 The first screen of Kestrel will allow you to select files and generate a Runfile.
 
 You may also create or modify this runfile with other applications in order to work with vaults, PDMs, ERPs, and more.
@@ -47,7 +47,7 @@ A Solidworks macro example is provided on the downloads page that can aid in thi
 
 Run the provided macro while will generate _MMD files and update the status of items in the Runfile.
 
-[Learn about the Metadata file format](kestrel/MetadataFiles.md)
+[Learn about the Metadata file format](MetadataFiles.md)
 
 ### 6. Migrate to Onshape
 
