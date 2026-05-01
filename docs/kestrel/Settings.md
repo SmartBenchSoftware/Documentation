@@ -88,19 +88,23 @@ Kestrel can replicate the folder structure from your local computer inside of On
 When selected and a root directory is selected, the file structure is replicated inside the default Onshape folder.
 Onshape documents are created in the correct folder when possible.
 
-#### default onshape folder
+#### Default onshape folder
 Default the Onshape upload destination. The root directory in Onshape to match the local folder root if the create local folders option is selected.
 
-#### company override
+#### Company override
 Only used when a user is having an issue with Onshape authenticate. This will force the login screen in Onshape for a specific company.
 
 #### Mapped material density units
 Mapped material units set in Onshape
 
 # Non-CAD files
-extnesions, matching files
-export drawings as PDF or DXF
-upload drawings to new documetns vs upload drawings to associated document (by filename)
+Drawing and non-CAD files can be associated to Part/Assembly files and uploaded to their document in Onshape.
+Drawings and non-CAD files do not have accessible metadata and need to be associated by similar file names.
+The options are to match either the whole file name (minus extension) or the first X characters.
+
+This page also gives the option to set the export type for native drawings into either PDf or DXF file types for upload to Onshape.
+
+
 
 
 
