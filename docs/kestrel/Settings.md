@@ -25,22 +25,34 @@ Complex property mappings gives users the ability to manipulate metadata during 
 The following keywords are available - assuming they were also included in the _MMD file.
 
 {field:null}
+
 {filename}
+
 {configuration}
+
 {title}
+
 {subject}
+
 {savedate}
+
 {comment}
+
 {keywords}
+
 {author}
+
 {field:<name>}
 
 Any other CAD property in the _MMD file can be used with the {field:<name>} mapping. The value of the cad filed with the name <name> will be used. Note that the <> are not included but the {} are required.
 Literal strings outside of the complex mappings will be kept.
-A default value can be created by using teh {field:null} option.
 
-Example:
+A default value can be created by using the {field:null} option.
+
+**Example:**
+
 {field:partnumber}_{field:revision} -> 1000500_A
+
 PN{field:partnumber} -> PN100500
 
 ### Property Value Mapping Tables
@@ -57,6 +69,7 @@ Kestrel requires 3 additional mappings for the File Uniquness, Onshape Document 
 These property mappings are used to setup metadata in Onshape that might not exist in the desktop CAD environment.
 By default, the file uniquness and document name are set to the file path.
 It is not recommended to use File Path for the file uniqueness as it will not prevent duplicates across multiple Kestrel Users, or if there were issues with duplicate files in the legacy system.
+
 
 Version Property is used to create the initial version in Onshape. Currently Kestrel does not support a "live updating" workflow where versions will be updated in Onshape after creation.
 
