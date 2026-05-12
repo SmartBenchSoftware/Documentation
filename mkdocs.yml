@@ -62,5 +62,6 @@ nav:
       - Settings: kestrel/Settings.md
       - Runfile: kestrel/Runfile.md
       - Metadata Files: kestrel/MetadataFiles.md
+      - Changelog: kestrel/changelog.md
   - SmartLink:
       - Overview: smart-link/index.md
