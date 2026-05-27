@@ -1,5 +1,11 @@
 # Kestrel Changelog
 
+## 1.2
+- Added a new option to search Onshape for latest released items during migration
+- Added additional checks for auth issues
+- Added a version check to the macro and runfile
+- Added the ability to switch companies for users (visible in the web portal user profile page)
+- Added ability to import CSV databases from other migration tools
 
 ## 1.1
 - Added Y-Axis up option
