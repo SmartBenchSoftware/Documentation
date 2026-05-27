@@ -33,6 +33,12 @@ The logs give the ability to easily audit migrations, and understand potential i
 
 This page contains the download links for the Kestrel desktop app, along with any provided macros to aid in the metadata preparation process.
 It is recommended to use the Kestrel launcher as it will automatically update Kestrel upon launch. Older versions of the Kestrel desktop app cannot be used once an update has been released.
+
+## Changing User Company
+Your account and Kestrel data is all managed by your verified Onshape Company ID.
+In the case where a sandbox environment is used and a move to production is required, the user will need to switch Onshape Company.
+This can be done by clicking the user email in the top right of the Kestrel web portal.
+This will bring you to the user profile page. On the user profile page is a button for "Switch Company". This will require authenticating with Onshape. During this process, be sure to select the correct company in the Onshape auth page. If no company selection was available, make sure to log out of Onshape before initiating the switch company process.
 If the auto-updating nature of the application causes network or IT issues, you may directly download the Kestrel desktop app. But note, that updates will need to be manually downloaded.
 
 The Kestrel app requires Windows 7 or later, or windows server 2012 R2 or later.
