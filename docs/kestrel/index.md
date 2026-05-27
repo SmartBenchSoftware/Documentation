@@ -9,7 +9,6 @@ Kestrel does not directly integrate into any desktop CAD Software. It requires u
 
 Sign up for [Kestrel Here](https://kestrel.sbs)
 
-
 ## Quick Start Guide
 
 ### 1. Sign Up For Kestrel
@@ -22,8 +21,6 @@ Data is managed at the Onshape company level. Your Onshape account must belong t
 ### 2. Download the Kestrel App
 
 Go to the Desktop App page and download the Kestrel Desktop App.
-The app is self updating and may require a whitelist from your company's IT department.
-A non-self updating version is also available.
 
 ### 3. Configure Kestrel
 
@@ -34,6 +31,10 @@ Set all of your field mappings for part and assembly metadata.
 
 [Learn more about the settings](Settings.md)
 
+It is very important that the "Identifier" mapping is correctly setup in Kestrel. This field is used to prevent duplicates and build assemblies.
+When files are uploaded to Onshape with Kestrel, the Identifier field is a direct map between the desktop CAD file and the resulting Onshape Import.
+It is generally recommended to use a Part Number as the identifier.
+
 ### 4. Use Kestrel to Generate the Runfile
 
 Kestrel uses a plain text file to manage file metadata extraction and uploads.
@@ -41,6 +42,8 @@ The format of this file can be found [Here](Runfile.md)
 The first screen of Kestrel will allow you to select files and generate a Runfile.
 
 You may also create or modify this runfile with other applications in order to work with vaults, PDMs, ERPs, and more.
+
+This runfile tells Kestrel and any metadata extractor which files to are going to be imported into Onshape.
 
 ### 5. Generate Metadata
 
@@ -59,3 +62,5 @@ The second tab in Kestrel is used to upload extracted metadata and files into On
 Kestrel reads the runfile in order to determine which files to migrate to Onshape.
 Files are directly imported into your Onshape, and the records of those files are added to the Kestrel database.
 
+### 7. Verify results in the Kestrel Web Portal and Onshap
+Check the Kestrel Files database for any uploaded files, and verify their correctness in Onshape.
