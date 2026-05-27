@@ -110,6 +110,10 @@ Only used when a user is having an issue with Onshape authenticate. This will fo
 #### Mapped material density units
 Mapped material units set in Onshape
 
+#### Search Onshape for Released Items
+By enabling this option, when Kestrel attempts to upload a file to Onshape, it will first check onshape if the identifier has been used as a released part number in Onshape.
+If an item with the same part number as the identifier has been released in Onshape, the item will be added to the Kestrel database, and the file import skipped.
+
 # Non-CAD files
 Drawing and non-CAD files can be associated to Part/Assembly files and uploaded to their document in Onshape.
 Drawings and non-CAD files do not have accessible metadata and need to be associated by similar file names.
