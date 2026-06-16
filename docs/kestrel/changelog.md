@@ -1,5 +1,11 @@
 # Kestrel Changelog
 
+## 1.2.2
+- Fixed issue with subassembly upload order
+
+## 1.2.1
+- Fixed authentication related issue
+
 ## 1.2
 - Added a new option to search Onshape for latest released items during migration
 - Added additional checks for auth issues
