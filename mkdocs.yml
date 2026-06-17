@@ -60,6 +60,7 @@ nav:
       - Overview: kestrel/index.md
       - Kestrel Portal: kestrel/KestrelPortal.md
       - Settings: kestrel/Settings.md
+      - Macro: kestrel/solidworks.md
       - Runfile: kestrel/Runfile.md
       - Metadata Files: kestrel/MetadataFiles.md
       - Changelog: kestrel/changelog.md
