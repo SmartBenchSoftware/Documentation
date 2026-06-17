@@ -52,6 +52,7 @@ The migration process requires extracting metadata through other means. Read the
 A Solidworks macro example is provided on the downloads page that can aid in this process.
 
 Run the provided macro while will generate _MMD files and update the status of items in the Runfile.
+[Read about the Macro here](solidworks.md)
 
 [Learn about the Metadata file format](MetadataFiles.md)
 
