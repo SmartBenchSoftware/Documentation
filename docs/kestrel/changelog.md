@@ -1,5 +1,10 @@
 # Kestrel Changelog
 
+## 1.2.3
+- Fixed issue with associated document upload causing assemblies to fail
+- Fixed issue with preview load delays
+- Fixed issue with running migration on older or malformed metadata files
+
 ## 1.2.2
 - Fixed issue with subassembly upload order
 
