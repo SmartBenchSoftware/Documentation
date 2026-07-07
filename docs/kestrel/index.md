@@ -22,6 +22,8 @@ Data is managed at the Onshape company level. Your Onshape account must belong t
 
 Go to the Desktop App page and download the Kestrel Desktop App.
 
+Please note: Kestrel currently only support chrome based web browsers.
+
 ### 3. Configure Kestrel
 
 Open the settings page and configure your options and parameters.
