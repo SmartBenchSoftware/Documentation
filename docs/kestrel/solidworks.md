@@ -16,6 +16,7 @@ Any addins or automations that are set to run automatically when a file is opene
 ## Running the macro
 
 Before running the macro, be sure to close all open Solidworks files.
+All files need to be checkout out/get latest on your local computer. Files that don't exist on your local computer cannot be uploaded to Onshape.
 
 In the Solidworks menu go to Tools > Macro > Run, and select the provided macro file.
 
