@@ -1,5 +1,12 @@
 # Kestrel Changelog
 
+## 1.3.0.0
+- Application is now digitally signed for added trust
+- Support for selecting projects as upload destination in Onshape
+- Added option to only update on major versions
+- Fixed issue with assembly grouping
+- Fixed issue with user deleting settings
+
 ## 1.2.3
 - Fixed issue with associated document upload causing assemblies to fail
 - Fixed issue with preview load delays
