@@ -1,5 +1,9 @@
 # Kestrel Changelog
 
+## 1.3.1.0
+- Fixed issue with multiline custom properties
+- Fixed issue with blank version names not having a default
+
 ## 1.3.0.0
 - Application is now digitally signed for added trust
 - Support for selecting projects as upload destination in Onshape
