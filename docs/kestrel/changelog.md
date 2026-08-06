@@ -1,5 +1,10 @@
 # Kestrel Changelog
 
+## 1.3.2.0
+- Fixed issue where custom properties were filtered out of the settings drop down
+- Fixed issue with malformed complex mappings
+- Added support for multibody part files coming in as a composite part
+
 ## 1.3.1.0
 - Fixed issue with multiline custom properties
 - Fixed issue with blank version names not having a default
