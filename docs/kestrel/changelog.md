@@ -1,5 +1,10 @@
 # Kestrel Changelog
 
+## 1.3.3.0
+- Fixed issue with certain character sequences breaking _MMD files
+- Fixed issue where users setting the same property multiple times would cause upload failures
+- UI Improvements
+
 ## 1.3.2.0
 - Fixed issue where custom properties were filtered out of the settings drop down
 - Fixed issue with malformed complex mappings
