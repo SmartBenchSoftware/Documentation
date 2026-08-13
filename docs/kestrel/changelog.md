@@ -1,5 +1,11 @@
 # Kestrel Changelog
 
+## 1.3.4.0
+- Fixed issue with special characters in file paths
+- Added an _MMD scan summary window
+- Update auth process to be more clear on status and a retry method
+- Added more migration logs for metadata extraction step
+
 ## 1.3.3.0
 - Fixed issue with certain character sequences breaking _MMD files
 - Fixed issue where users setting the same property multiple times would cause upload failures
