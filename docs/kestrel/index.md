@@ -65,5 +65,5 @@ The second tab in Kestrel is used to upload extracted metadata and files into On
 Kestrel reads the runfile in order to determine which files to migrate to Onshape.
 Files are directly imported into your Onshape, and the records of those files are added to the Kestrel database.
 
-### 7. Verify results in the Kestrel Web Portal and Onshap
+### 7. Verify results in the Kestrel Web Portal and Onshape
 Check the Kestrel Files database for any uploaded files, and verify their correctness in Onshape.
