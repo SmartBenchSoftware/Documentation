@@ -55,6 +55,9 @@ Run the provided macro while will generate _MMD files and update the status of i
 
 [Learn about the Metadata file format](MetadataFiles.md)
 
+Kestrel now has a [Quick Parse](QuickParse.md) method in beta - this will allow direct file reads for some supported file formats.
+
+
 ### 6. Migrate to Onshape
 
 Once data has been extracted and prepared for upload, use Kestrel to migrate files to Onshape.
