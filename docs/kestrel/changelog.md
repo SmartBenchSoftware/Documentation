@@ -1,5 +1,9 @@
 # Kestrel Changelog
 
+## 1.3.5.0
+- Various UI improvements to make the migration process clearer
+- Added Quick Parse function for faster file metadata extraction
+
 ## 1.3.4.0
 - Fixed issue with special characters in file paths
 - Added an _MMD scan summary window
