@@ -26,3 +26,7 @@ The macro will read your runfile contents and extract metadata for all included 
 
 As the macro does not have the option to stop or pause during running, it is possible that the extraction process could take a long period of time.
 It is recommended to test with a small number of files (1-10), and to work with smaller subsets of migration data (~100 files at a time).
+
+## Quick Parse
+
+You may also use [Quick Parse](QuickParse.md) to speed up the metadata extraction process
