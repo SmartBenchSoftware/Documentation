@@ -1,8 +1,5 @@
 # Kestrel
 
-**Please note that Kestrel is currently in beta**
-
-
 Kestrel is an Onshape data migration tool. Kestrel allows users to manage the desktop to cloud migration process by simplifying file import, metadata management, and preventing file duplication.
 
 Kestrel does not directly integrate into any desktop CAD Software. It requires use of other metadata preparation tools to facilitate the migration process.
