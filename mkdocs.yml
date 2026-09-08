@@ -42,7 +42,7 @@ nav:
           - Multiface DXF: renaissance/part/multiface-dxf.md
           - Lock Configuration: renaissance/part/lock-configuration.md
           - Duplicate Feature: renaissance/part/duplicate-feature.md
-
+          - Bulk Config Export: renaissance/part/bulk-config-export.md
       - Drawing:
           - Overview: renaissance/drawing/index.md
           - Configured Drawings: renaissance/drawing/configured-drawings.md
