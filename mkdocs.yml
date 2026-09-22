@@ -37,7 +37,7 @@ nav:
       - Part:
           - Overview: renaissance/part/index.md
           - Find and Replace: renaissance/part/find-and-replace.md
-          - Image Cube: renaissance/part/image-cube.md
+          - Image Tools: renaissance/part/image-cube.md
           - Part Configured Properties: renaissance/part/configured-properties.md
           - Multiface DXF: renaissance/part/multiface-dxf.md
           - Lock Configuration: renaissance/part/lock-configuration.md
