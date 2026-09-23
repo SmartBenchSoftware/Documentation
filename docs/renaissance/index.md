@@ -13,7 +13,7 @@ Save time and reduce errors with automation made easy.
 - [Assembly Export](assembly/assembly-export.md)
 - [Assembly Links](assembly/assembly-links.md)
 - [Component Share](assembly/component-share.md)
-- [Configured Properties](assembly/configured-properties.md)
+- [Configured Properties Assembly](assembly/configured-properties.md)
 
 Assembly Mirror has been removed. Please use the native Onshape functionality.
 
