@@ -1,4 +1,4 @@
-# Link Tab
+# Link Tab  **To be deprecated January 1st 2027**
 
 ![Link Tab](link-tab.png)
 
