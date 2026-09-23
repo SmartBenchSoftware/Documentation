@@ -23,7 +23,7 @@ Assembly Mirror has been removed. Please use the native Onshape functionality.
 - [Image Tools](part/image-cube.md)
 - [Configured Properties](part/configured-properties.md)
 - [Multiface DXF](part/multiface-dxf.md)
-- [Lock Configuration](part/lock-configuration.md)
+- [Lock Config Config to Partstudio](part/lock-configuration.md)
 
 ## Drawing
 
