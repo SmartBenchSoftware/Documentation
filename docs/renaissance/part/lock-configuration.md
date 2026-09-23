@@ -1,4 +1,4 @@
-# Lock Configuration
+# Lock Config Config to Partstudio
 
 ![Lock Configuration](lock-configuration.png)
 
