@@ -32,7 +32,7 @@ Assembly Mirror has been removed. Please use the native Onshape functionality.
 ## All Contexts
 
 - [Release Export](all/release-export.md)
-- [Release Package Automation](all/release-package-automation.md)
+- [Auto Release Export](all/release-package-automation.md)
 - [Publication Updater](all/publication-updater.md)
 - [Link Tab](all/link-tab.md)
 - [Standard Content Metadata](all/standard-content-metadata.md)
