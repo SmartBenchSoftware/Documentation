@@ -1,5 +1,9 @@
 # Kestrel Changelog
 
+## 1.3.6.0
+- Improvement to Onshape API interaction that should result in ~30% faster migrations
+- Changes to authentication process to fix issues with slower logins and re-logins.
+
 ## 1.3.5.0
 - Various UI improvements to make the migration process clearer
 - Added Quick Parse function for faster file metadata extraction
