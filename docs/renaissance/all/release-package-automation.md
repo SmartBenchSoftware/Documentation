@@ -1,4 +1,4 @@
-# Release Package Automation
+# Auto Release Export
 
 ![Release Package Automation](release-package-automation.png)
 
