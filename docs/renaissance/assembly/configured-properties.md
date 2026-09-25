@@ -1,4 +1,4 @@
-# Configured Properties Assembly
+# Configured Properties
 
 ![Assembly Configured Properties](configured-properties.png)
 
