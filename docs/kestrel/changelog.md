@@ -1,5 +1,9 @@
 # Kestrel Changelog
 
+## 1.3.7.0
+- Improvements to logging for skipped assembly items
+- Improvements to authentication for some users having issues
+
 ## 1.3.6.0
 - Improvement to Onshape API interaction that should result in ~30% faster migrations
 - Changes to authentication process to fix issues with slower logins and re-logins.
