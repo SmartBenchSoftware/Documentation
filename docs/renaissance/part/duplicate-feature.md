@@ -1,4 +1,4 @@
-# Duplicate Feature
+# Duplicate Features
 
 ![Duplicate Feature](duplicate-feature.png)
 Duplicate feature allows you to easily duplicate an existing feature in a part studio.

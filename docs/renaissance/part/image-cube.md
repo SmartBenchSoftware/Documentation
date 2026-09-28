@@ -1,4 +1,4 @@
-# Image Cube
+# Image Tools
 
 ![Image Cube](image-cube.png)
 

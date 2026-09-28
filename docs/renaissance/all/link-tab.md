@@ -1,4 +1,7 @@
-# Link Tab
+# Link Tab  
+To be Deprecated January 1st 2027
+
+Please use the built-in Onshape Document Notes
 
 ![Link Tab](link-tab.png)
 

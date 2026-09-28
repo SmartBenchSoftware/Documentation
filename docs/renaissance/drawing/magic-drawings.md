@@ -1,8 +1,8 @@
-# Magic Drawings
+# Drawing Tools
 
 ![Magic Drawings](magic-drawings.png)
 
-Magic Drawings is a tool that adds additional functionality to Onshape drawings.
+Drawing tools adds additional functionality to Onshape drawings.
 
 ## Drawing Tables
 Clicking **Add CSV Table** allows you to insert a CSV table into an Onshape drawing.
