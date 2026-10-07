@@ -1,5 +1,10 @@
 # Kestrel Changelog
 
+# Portal Updates 2026-10-07
+- Added "File" type objects to manually added migration items
+- Remove case sensitivity from search bars
+- Fixed timezones for log times
+
 ## 1.3.7.0
 - Improvements to logging for skipped assembly items
 - Improvements to authentication for some users having issues
