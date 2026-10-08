@@ -1,5 +1,10 @@
 # Kestrel Changelog
 
+# 1.3.8.0
+- Fixed issue with document names exceeding Onshape length limit (capped at 256 char)
+- Fixed issue where parts or assemblies with a failed configuration causing the entire file to fail
+- Fixed issue where configured assemblies would have the first configuration incorrectly name the assembly tab
+
 # Portal Updates 2026-10-07
 - Added "File" type objects to manually added migration items
 - Remove case sensitivity from search bars
