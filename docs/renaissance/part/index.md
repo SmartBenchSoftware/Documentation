@@ -3,9 +3,9 @@
 Renaissance Part tools:
 
 - [Find and Replace](find-and-replace.md)
-- [Image Cube](image-cube.md)
+- [Image Tools](image-tools.md)
 - [Configured Properties](configured-properties.md)
 - [Multiface DXF](multiface-dxf.md)
-- [Lock Configuration](lock-configuration.md)
-- [Duplicate Feature](duplicate-feature.md)
+- [Config to PartStudio](config-to-partstudio.md)
+- [Duplicate Feature](duplicate-features.md)
 
