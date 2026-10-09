@@ -41,7 +41,7 @@ nav:
           - Part Configured Properties: renaissance/part/configured-properties.md
           - Multiface DXF: renaissance/part/multiface-dxf.md
           - Config to PartStudio: renaissance/part/config-to-partstudio.md
-          - Duplicate Feature: renaissance/part/duplicate-feature.md
+          - Duplicate Feature: renaissance/part/duplicate-features.md
           - Bulk Config Export: renaissance/part/bulk-config-export.md
       - Drawing:
           - Overview: renaissance/drawing/index.md
