@@ -24,7 +24,7 @@ Assembly Mirror has been removed. Please use the native Onshape functionality.
 - [Configured Properties](part/configured-properties.md)
 - [Multiface DXF](part/multiface-dxf.md)
 - [Config to Partstudio](part/config-to-partstudio.md)
-- [Duplicate Features](part/duplicate-feature.md)
+- [Duplicate Features](part/duplicate-features.md)
 - 
 ## Drawing
 
