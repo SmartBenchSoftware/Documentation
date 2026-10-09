@@ -46,7 +46,7 @@ nav:
       - Drawing:
           - Overview: renaissance/drawing/index.md
           - Configured Drawings: renaissance/drawing/configured-drawings.md
-          - Drawing Tools: renaissance/drawing/magic-drawings.md
+          - Drawing Tools: renaissance/drawing/drawing-tools.md
       - All:
           - Overview: renaissance/all/index.md
           - Release Export: renaissance/all/release-export.md
