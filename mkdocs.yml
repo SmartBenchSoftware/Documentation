@@ -32,27 +32,26 @@ nav:
           - Overview: renaissance/assembly/index.md
           - Assembly Export: renaissance/assembly/assembly-export.md
           - Assembly Links: renaissance/assembly/assembly-links.md
-          - Component Share: renaissance/assembly/component-share.md
+          - Assembly Share: renaissance/assembly/assembly-share.md
           - Assembly Configured Properties: renaissance/assembly/configured-properties.md
       - Part:
           - Overview: renaissance/part/index.md
           - Find and Replace: renaissance/part/find-and-replace.md
-          - Image Tools: renaissance/part/image-cube.md
+          - Image Tools: renaissance/part/image-tools.md
           - Part Configured Properties: renaissance/part/configured-properties.md
           - Multiface DXF: renaissance/part/multiface-dxf.md
-          - Lock Configuration: renaissance/part/lock-configuration.md
+          - Config to PartStudio: renaissance/part/config-to-partstudio.md
           - Duplicate Feature: renaissance/part/duplicate-feature.md
           - Bulk Config Export: renaissance/part/bulk-config-export.md
       - Drawing:
           - Overview: renaissance/drawing/index.md
           - Configured Drawings: renaissance/drawing/configured-drawings.md
-          - Magic Drawings: renaissance/drawing/magic-drawings.md
+          - Drawing Tools: renaissance/drawing/magic-drawings.md
       - All:
           - Overview: renaissance/all/index.md
           - Release Export: renaissance/all/release-export.md
-          - Release Package Automation: renaissance/all/release-package-automation.md
+          - Auto Release Export: renaissance/all/auto-release-export.md
           - Publication Updater: renaissance/all/publication-updater.md
-          - Link Tab: renaissance/all/link-tab.md
           - Standard Content Metadata: renaissance/all/standard-content-metadata.md
   - fs.place:
       - Overview: fs-place/index.md
