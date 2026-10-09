@@ -12,7 +12,7 @@ Save time and reduce errors with automation made easy.
 
 - [Assembly Export](assembly/assembly-export.md)
 - [Assembly Links](assembly/assembly-links.md)
-- [Component Share](assembly/component-share.md)
+- [Component Share](assembly/assembly-share.md)
 - [Configured Properties](assembly/configured-properties.md)
 
 Assembly Mirror has been removed. Please use the native Onshape functionality.
@@ -20,21 +20,22 @@ Assembly Mirror has been removed. Please use the native Onshape functionality.
 ## Part
 
 - [Find and Replace](part/find-and-replace.md)
-- [Image Tools](part/image-cube.md)
+- [Image Tools](part/image-tools.md)
 - [Configured Properties](part/configured-properties.md)
 - [Multiface DXF](part/multiface-dxf.md)
-- [Config to Partstudio](part/lock-configuration.md)
-
+- [Config to Partstudio](part/config-to-partstudio.md)
+- [Duplicate Features](part/duplicate-feature.md)
+- 
 ## Drawing
 
 - [Configured Drawings](drawing/configured-drawings.md)
-
+- [Drawing Tools](drawing/drawing-tools.md)
+- 
 ## All Contexts
 
 - [Release Export](all/release-export.md)
-- [Auto Release Export](all/release-package-automation.md)
+- [Auto Release Export](all/auto-release-export.md)
 - [Publication Updater](all/publication-updater.md)
-- [Link Tab](all/link-tab.md)
 - [Standard Content Metadata](all/standard-content-metadata.md)
 
 By using Renaissance you agree to the [Terms of Service and Privacy Policy](https://www.smartbenchsoftware.com/privacy-and-tos).
