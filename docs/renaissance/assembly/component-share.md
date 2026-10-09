@@ -1,4 +1,4 @@
-# Component Share
+# Assembly Share
 
 ![Component Share](component-share.png)
 
