@@ -104,6 +104,54 @@ All files are uploaded to Onshape with a configuration included.
 
 Use for drawing metadata when a PDF export path is available.
 
+
+### 8) Material records (optional, part files only)
+
+Material metadata lets Kestrel apply the CAD material to the uploaded Onshape part. The material **name** is emitted as a normal property record using the reserved `{swmaterial}` property name; the material **database id** and **density** are emitted as their own record types.
+
+```plaintext
+---PROPERTY==={swmaterial}---VALUE===<material display name>
+---MATERIALID===<material database>|<material name>
+---MATERIALDENSITY===<density in kg/m^3>
+
+```
+
+- `---PROPERTY==={swmaterial}---VALUE===` — the applied material name (e.g. `1023 Carbon Steel Sheet (SS)`). This is a standard property record and must appear before `---ENDPROPERTIES---`.
+- `---MATERIALID===` — the material database file and internal material name, separated by a pipe (`|`)
+- `---MATERIALDENSITY===` — the material density in `kg/m^3`. Omit this line (or use `0`) when density is unavailable; Kestrel will skip the density update.
+
+A material is only applied in Onshape when a material name is present. The density is ignored unless a material is also mapped.
+
+---
+
+### 9) Configured material records (optional, part files)
+
+Use these when a material differs per configuration. Values are keyed by configuration name and take precedence over the part-level material records above; configurations without their own material fall back to the part-level values.
+
+```plaintext
+---CONFIGUREDMATERIAL===<configuration name>---VALUE===<material display name>
+---CONFIGUREDMATERIALID===<configuration name>---VALUE===<material database>|<material name>
+---CONFIGUREDMATERIALDENSITY===<configuration name>---VALUE===<density in kg/m^3>
+
+```
+
+---
+
+### Material example (part)
+
+```plaintext
+---FILEPATH---C:\CAD\Bracket.sldprt
+---PROPERTY==={filename}---VALUE===Bracket.sldprt
+---PROPERTY==={swmaterial}---VALUE===1023 Carbon Steel Sheet (SS)
+---MATERIALID===1023 Carbon Steel Sheet (SS)
+---MATERIALDENSITY===7858.000032
+---ENDPROPERTIES---
+
+```
+
+---
+
+
 ## Minimal valid `_MMD` examples
 
 ### Part (minimal)
