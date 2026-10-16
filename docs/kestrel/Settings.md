@@ -42,6 +42,8 @@ The following keywords are available - assuming they were also included in the _
 
 {author}
 
+{swmaterial}
+
 {field:<name>}
 
 Any other CAD property in the _MMD file can be used with the {field:<name>} mapping. The value of the cad filed with the name <name> will be used. Note that the <> are not included but the {} are required.
