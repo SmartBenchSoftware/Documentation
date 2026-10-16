@@ -26,3 +26,5 @@ Files with unexpected formats might also not be compatible.
 If you have files that are not supported, and do not contain a configuration, email support@smartbenchsoftware.com. By sharing sample files with us, you can help increase the range of compatible files.
 
 Drawings are not supported by Quick Parse.
+
+Please note that if you are mapping materials, Quick Parse does not support material density. Only material names can be mapped.
