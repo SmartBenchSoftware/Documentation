@@ -1,5 +1,11 @@
 # Kestrel Changelog
 
+# 1.3.10.0
+- Fixed issue with project destinations in Onshape
+- New changes to non-cad associated files to make the process clearer
+- New changes to how folder recreation in Onshape is mapped and displayed
+- Fixes for configured complex mappings
+
 # 1.3.9.0
 - Fixed issue with single configuration part metadata
 - Added support for material mapping
