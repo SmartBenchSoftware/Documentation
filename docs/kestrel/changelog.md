@@ -1,5 +1,8 @@
 # Kestrel Changelog
 
+## 1.3.12.0
+- Fixed issue with drawings and associated files being re-uploaded on subsequent runs
+
 ## 1.3.11.0
 - Fixed issue with regionality and assembly transforms
 - Fixed issue with drawing metadata mapping
