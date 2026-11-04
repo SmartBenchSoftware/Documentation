@@ -1,23 +1,27 @@
 # Kestrel Changelog
 
-# 1.3.10.0
+## 1.3.11.0
+- Fixed issue with regionality and assembly transforms
+- Fixed issue with drawing metadata mapping
+
+## 1.3.10.0
 - Fixed issue with project destinations in Onshape
 - New changes to non-cad associated files to make the process clearer
 - New changes to how folder recreation in Onshape is mapped and displayed
 - Fixes for configured complex mappings
 
-# 1.3.9.0
+## 1.3.9.0
 - Fixed issue with single configuration part metadata
 - Added support for material mapping
 - Added material support for quick parse - note that density is not supported
 - Solidworks Macro Update -> The macro will now export material. Material mapping will require updating the macro.
 
-# 1.3.8.0
+## 1.3.8.0
 - Fixed issue with document names exceeding Onshape length limit (capped at 256 char)
 - Fixed issue where parts or assemblies with a failed configuration causing the entire file to fail
 - Fixed issue where configured assemblies would have the first configuration incorrectly name the assembly tab
 
-# Portal Updates 2026-10-07
+## Portal Updates 2026-10-07
 - Added "File" type objects to manually added migration items
 - Remove case sensitivity from search bars
 - Fixed timezones for log times
