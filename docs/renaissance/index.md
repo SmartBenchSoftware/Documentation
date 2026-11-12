@@ -25,12 +25,12 @@ Assembly Mirror has been removed. Please use the native Onshape functionality.
 - [Multiface DXF](part/multiface-dxf.md)
 - [Config to Partstudio](part/config-to-partstudio.md)
 - [Duplicate Features](part/duplicate-features.md)
-- 
+  
 ## Drawing
 
 - [Configured Drawings](drawing/configured-drawings.md)
 - [Drawing Tools](drawing/drawing-tools.md)
-- 
+  
 ## All Contexts
 
 - [Release Export](all/release-export.md)
